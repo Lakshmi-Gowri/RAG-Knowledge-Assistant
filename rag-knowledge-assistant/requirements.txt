@@ -1,0 +1,15 @@
+langchain==0.1.16
+langchain-core==0.1.53
+langchain-community==0.0.36
+langchain-openai==0.1.6
+langchain-text-splitters==0.0.2
+
+faiss-cpu
+openai==1.109.1
+tiktoken
+pypdf
+fastapi
+uvicorn
+streamlit
+python-dotenv
+requests

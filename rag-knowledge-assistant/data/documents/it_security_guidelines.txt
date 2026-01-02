@@ -1,0 +1,13 @@
+IT Security Guidelines
+
+1. Password Policy
+Passwords must be at least 12 characters long.
+They must include uppercase, lowercase, numbers, and special characters.
+
+2. Data Access
+Access to sensitive data is restricted based on user roles.
+All access requests must be approved by the data owner.
+
+3. Incident Reporting
+Security incidents must be reported within 24 hours.
+Employees should contact the IT security team immediately.

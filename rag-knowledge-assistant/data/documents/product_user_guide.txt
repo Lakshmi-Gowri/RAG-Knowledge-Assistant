@@ -1,0 +1,17 @@
+Product User Guide – SmartAnalytics Platform
+
+1. Overview
+SmartAnalytics is a data analytics platform designed to process large-scale datasets.
+
+2. Features
+- Real-time data processing
+- Interactive dashboards
+- AI-driven insights
+
+3. System Requirements
+Minimum 8GB RAM and 4-core CPU are required.
+The platform supports Windows, Linux, and macOS.
+
+4. User Access
+Users must authenticate using Single Sign-On (SSO).
+Role-based access control is enforced.

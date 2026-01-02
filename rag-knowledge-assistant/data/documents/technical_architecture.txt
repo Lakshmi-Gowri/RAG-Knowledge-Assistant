@@ -1,0 +1,7 @@
+System Architecture Overview
+
+The AI Knowledge Assistant follows a Retrieval-Augmented Generation architecture.
+Documents are ingested and split into semantic chunks.
+Embeddings are generated and stored in a vector database.
+At query time, relevant chunks are retrieved using semantic search.
+The retrieved context is injected into the LLM prompt to generate grounded responses.
